@@ -1,9 +1,8 @@
 <div align="center">
 # 👋 Hi there, I'm Jemin Dodiya!<br>
 
-🚀 Full Stack Developer | 💻 React, Redux | 🧠 Always Learning | 🌍 Based in India  <br>
+🚀 Full Stack Developer | 💻 React, Redux | 🧠 Always Learning | 🌍 Based in India  <br><br>
 ![Visitors](https://komarev.com/ghpvc/?username=jemin16&label=Profile%20views&color=0e75b6&style=flat)<br>
----
 </div>
 
 ## 👨‍💻 About Me
@@ -22,7 +21,7 @@ I love turning complex problems into clean, efficient solutions. I’m always ea
 
 | Frontend                      | Backend            | Databases                  | Tools        |
 |------------------------------|--------------------|----------------------------|--------------|
-| React, Redux, HTML, CSS, JS, Tailwind | Node.js, Express.js | MySQL, PostgreSQL, MongoDB | Git, GitHub   |
+| React, Redux, HTML, CSS, JS, Tailwind, Bootstrap | Node.js, Express.js | MySQL, PostgreSQL, MongoDB | Git, GitHub   |
 
 ---
 
