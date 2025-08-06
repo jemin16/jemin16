@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hi there, I'm Jemin Dodiya!<br><br>
+Hi there, I'm Jemin Dodiya!👋<br><br>
 
 🚀 Full Stack Developer | 💻 React, Redux | 🧠 Always Learning | 🌍 Based in India  <br><br>
 ![Visitors](https://komarev.com/ghpvc/?username=jemin16&label=Profile%20views&color=0e75b6&style=flat)<br><br>
@@ -28,7 +28,7 @@ I love turning complex problems into clean, efficient solutions. I’m always ea
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://linkedin.com/in/jemin-dodiya)](https://linkedin.com/in/jemin-dodiya)  
-💬 **Skype / Teams:** jemin dodiya  
+💬 **Skype / Teams:** jemindodiya61@outlook.com  
 📫 **Email:** jemindodiya61@gmail.com  
 👥 **GitHub Followers:** ![Followers](https://img.shields.io/github/followers/jemin16?label=Follow&style=social)
 
