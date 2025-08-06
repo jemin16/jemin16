@@ -1,8 +1,9 @@
+<div align="center">
 # 👋 Hi there, I'm Jemin Dodiya!
 
 🚀 Full Stack Developer | 💻 React, Redux | 🧠 Always Learning | 🌍 Based in India  
 ![Visitors](https://komarev.com/ghpvc/?username=jemin16&label=Profile%20views&color=0e75b6&style=flat)
-
+</div>
 ---
 
 ## 👨‍💻 About Me
